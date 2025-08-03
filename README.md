@@ -51,7 +51,7 @@ Al-Yarmouk University | 2021 – Present
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 - **BSc in Computer Engineering** – Al-Yarmouk University, 2023
 - **Google Data Analytics Certificate**
